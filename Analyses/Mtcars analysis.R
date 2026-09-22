@@ -4,3 +4,4 @@ head(mtcars)
 #calculate the mean mpg among all cars
 mean_mpg <- mean(mtcars$mpg)
 
+print(mean_mpg)
