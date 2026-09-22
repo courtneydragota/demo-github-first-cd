@@ -13,3 +13,6 @@ print(mean_mpg)
   #git commit -m "some message"
 #Push changes 
   #git push origin main
+
+#Pull changes
+  #git pull
